@@ -1,0 +1,3 @@
+name: Justin Ochoa
+age: 27
+favorite color: Blue
